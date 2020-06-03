@@ -1,0 +1,4 @@
+﻿  test0603Dlg.cpp
+c:\users\administrator\source\repos\test0603\test0603\test0603dlg.cpp(188): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  LINK : 没有找到 C:\Users\Administrator\source\repos\test0603\Debug\test0603.exe 或上一个增量链接没有生成它；正在执行完全链接
+  test0603.vcxproj -> C:\Users\Administrator\source\repos\test0603\Debug\test0603.exe
