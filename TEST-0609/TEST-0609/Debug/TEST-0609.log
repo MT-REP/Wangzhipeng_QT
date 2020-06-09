@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  TEST-0609.cpp
+  TEST-0609Dlg.cpp
+c:\users\administrator\source\repos\test-0609\test-0609\test-0609dlg.cpp(198): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+c:\users\administrator\source\repos\test-0609\test-0609\test-0609dlg.cpp(238): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+  正在生成代码...
+C:\Users\Administrator\source\repos\TEST-0609\Debug\TEST-0609.pdb : fatal error LNK1318: 非意外的 PDB 错误: FORMAT (11)“C:\Users\Administrator\source\repos\TEST-0609\Debug\TEST-0609.pdb”
